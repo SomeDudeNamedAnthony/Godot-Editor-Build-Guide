@@ -7,7 +7,7 @@ This guide will show you how to build Godot 4.2.x Editor for Windows in a Docker
 The guide will only teach you how to build the editor **not** the export templates. For that  
 please view my other guide.  
 
-We'll be using [RedHat's Fedora Linux](https://fedoraproject.org) version *40*.  
+We'll be using [RedHat's Fedora Linux](https://fedoraproject.org) version *36*.  
 The guide could also apply to other Linux containers and other versions of Fedora.  
 
 ### Prerequisites
